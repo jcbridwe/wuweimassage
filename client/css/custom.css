@@ -12,7 +12,9 @@ html, body{
         background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
         background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
 }
-
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    color: #2E80B9;
+}
 .navbar{
         background-color:black;
         background-image:
